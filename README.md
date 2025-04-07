@@ -87,16 +87,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction
 ---
 
 ### 🌐 Network Optimization
-Applies real-time TCP stack tweaks to improve latency and throughput:
-
-- Enables:
-- **Direct Cache Access (DCA)** – Reduces memory latency for network traffic.
-- **Receive Side Scaling (RSS)** – Balances packet processing across CPU cores.
-- **CTCP Congestion Control** – Modern congestion algorithm for better performance.
-
-- All settings are cleanly rolled back during the system restore phase.
-
-### 🌐 Network Optimization
 
 Applies advanced TCP/IP stack optimizations for better connection stability and reduced latency:
 
