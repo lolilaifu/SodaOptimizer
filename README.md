@@ -1,3 +1,7 @@
+# ⚡ Soda Optimizer
+
+**Soda Optimizer** is a powerful Windows-based performance optimizer built for gamers, power users, and enthusiasts. It applies deep system-level tweaks, aggressively manages background processes, and ensures complete restoration after gameplay or heavy tasks. Designed with precision and safety in mind, Soda Optimizer improves real-time system responsiveness while monitoring critical performance metrics.
+
 ## 🚀 Core Optimization Features
 ### 🔋 Power Management
 - Switches to the **High Performance** power plan.
